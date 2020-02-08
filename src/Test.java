@@ -8,5 +8,6 @@ import jdk.nashorn.internal.objects.annotations.Getter;
 public class Test {
     String name;
     Integer age;
+    String remark ="第一次提交";
 
 }
