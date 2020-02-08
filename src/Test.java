@@ -8,6 +8,5 @@ import jdk.nashorn.internal.objects.annotations.Getter;
 public class Test {
     String name;
     Integer age;
-    Integer height;
 
 }
