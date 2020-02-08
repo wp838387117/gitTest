@@ -16,6 +16,7 @@ public class Test {
     String  log3 ="远程仓库第三次修改";
     String  log4 ="远程仓库第四次修改";
     String  log5 ="远程仓库第五次修改";
+    String remark4="第四次提交";
     
 
 }
