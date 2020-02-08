@@ -10,6 +10,7 @@ public class Test {
     Integer age;
     String remark ="第一次提交";
     Integer height;
-    String  log ="远程仓库第一次修改";
+    String  log1 ="远程仓库第一次修改";
+    String  log2 ="远程仓库第二次修改";
 
 }
