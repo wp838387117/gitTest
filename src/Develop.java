@@ -6,4 +6,5 @@ public class Develop {
     String state="develop分支";
     String state2="分支内容改变";
     String state3="分支内容改变3";
+    String state4="保存变更";
 }
