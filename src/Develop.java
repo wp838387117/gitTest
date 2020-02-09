@@ -4,4 +4,5 @@
  */
 public class Develop {
     String state="develop分支";
+    String state2="分支内容改变";
 }
